@@ -1,5 +1,5 @@
 p.tip {
-    width: 30%;
+    width: 75%;
     margin-left: auto; /* trick to centre the box */
     margin-right: auto;
     padding: 25px 50px 25px 50px; /* slightly more on the left to leave space for icon */
@@ -8,10 +8,10 @@ p.tip {
     font-family: sans-serif;
     font-style: italic;
     text-align: justify;
-    background-color: #ccd;
+    background-color: #f0f0f0;
 }
 
-img.pncl {
+img.tip {
     position: absolute;
     left: -25px;
     top: 10px;
