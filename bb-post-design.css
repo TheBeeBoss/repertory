@@ -5,6 +5,8 @@ aside.tip {
     padding: 25px 50px 25px 50px; /* slightly more on the left to leave space for icon */
     position: relative; /* So the icon is relative to this */
     border: double 3px #F55322;
+    font-family: merriweather;
+    font-size: auto;
     text-align: justify;
     background-color: #fafbfc;
 }
