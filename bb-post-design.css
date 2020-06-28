@@ -6,9 +6,10 @@ aside.tip {
     position: relative; /* So the icon is relative to this */
     border: solid 3px #F55322;
     font-family: merriweather;
-    font-size: 14px;
     text-align: justify;
     background-color: #fafbfc;
+    overflow: hidden;
+}
 }
 
 img.tip {
